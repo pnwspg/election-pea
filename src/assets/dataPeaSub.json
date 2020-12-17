@@ -1,0 +1,1718 @@
+[
+    {
+        "peaSubstation": "ACA อมตะซิตี้ 1"
+    },
+    {
+        "peaSubstation": "AKA อมตะนคร 1"
+    },
+    {
+        "peaSubstation": "AKU อมตะนคร 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "AKC อมตะนคร 3"
+    },
+    {
+        "peaSubstation": "AKW อมตะนคร 4 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "ALA อ่าวลึก"
+    },
+    {
+        "peaSubstation": "ANA อำนาจเจริญ"
+    },
+    {
+        "peaSubstation": "APA อ่าวไผ่ 1"
+    },
+    {
+        "peaSubstation": "APB อ่าวไผ่ 2  (ลานไก)"
+    },
+    {
+        "peaSubstation": "ARA อรัญประเทศ 1"
+    },
+    {
+        "peaSubstation": "ARU อรัญประเทศ 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "ATA อ่างทอง 1"
+    },
+    {
+        "peaSubstation": "ATB อ่างทอง 2"
+    },
+    {
+        "peaSubstation": "ATV อมตะซิตี้ 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "AYA อยุธยา 1"
+    },
+    {
+        "peaSubstation": "AYB อยุธยา 2"
+    },
+    {
+        "peaSubstation": "BAA เขื่อนบางลาง (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "BAK บางคล้า"
+    },
+    {
+        "peaSubstation": "BAL บางปลา "
+    },
+    {
+        "peaSubstation": "BAM บางปลาม้า"
+    },
+    {
+        "peaSubstation": "BAP บางน้ำเปรี้ยว"
+    },
+    {
+        "peaSubstation": "BBA บ้านบึง 1"
+    },
+    {
+        "peaSubstation": "BBB บ้านบึง 2"
+    },
+    {
+        "peaSubstation": "BBC บ้านบึง 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "BBU บ้านบึง 4 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "BCA บ้านไผ่"
+    },
+    {
+        "peaSubstation": "BDA บางกะดี"
+    },
+    {
+        "peaSubstation": "BDG บ้านดุง 1"
+    },
+    {
+        "peaSubstation": "BDH บ้านดุง 2"
+    },
+    {
+        "peaSubstation": "BEA บางเลน"
+    },
+    {
+        "peaSubstation": "BGA บ้านโฮ่ง"
+    },
+    {
+        "peaSubstation": "BGP บางปะกง 1"
+    },
+    {
+        "peaSubstation": "BGR บางปะกง 3"
+    },
+    {
+        "peaSubstation": "BHA เขื่อนภูมิพล (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "BIA บางปะอิน 1"
+    },
+    {
+        "peaSubstation": "BIB บางปะอิน 2"
+    },
+    {
+        "peaSubstation": "BIC บางปะอิน 3"
+    },
+    {
+        "peaSubstation": "BJA บ้านฉาง"
+    },
+    {
+        "peaSubstation": "BKA บางขันธ์ 1"
+    },
+    {
+        "peaSubstation": "BKH บ้านค่าย 1"
+    },
+    {
+        "peaSubstation": "BKI บ้านค่าย 2"
+    },
+    {
+        "peaSubstation": "BKO บ้านเขาหลัก"
+    },
+    {
+        "peaSubstation": "BKS บางกระสั้น"
+    },
+    {
+        "peaSubstation": "BKU บางขันธ์ 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "BLA บางละมุง"
+    },
+    {
+        "peaSubstation": "BLS บ้านลาดทราย"
+    },
+    {
+        "peaSubstation": "BMA บ้านใหม่"
+    },
+    {
+        "peaSubstation": "BNA บางมูลนาก"
+    },
+    {
+        "peaSubstation": "BNF บึง 2"
+    },
+    {
+        "peaSubstation": "BNG บึง 1"
+    },
+    {
+        "peaSubstation": "BNL บ้านเลน 1"
+    },
+    {
+        "peaSubstation": "BNM บ้านเลน 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "BNN บำเหน็จณรงค์"
+    },
+    {
+        "peaSubstation": "BNP บ้านแพ้ว"
+    },
+    {
+        "peaSubstation": "BNU บึง 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "BOA บ้านดอน 1"
+    },
+    {
+        "peaSubstation": "BOB บ้านดอน 2"
+    },
+    {
+        "peaSubstation": "BOP บ่อพลอย"
+    },
+    {
+        "peaSubstation": "BOR บรบือ"
+    },
+    {
+        "peaSubstation": "BPA บ้านโป่ง 1"
+    },
+    {
+        "peaSubstation": "BPB บ้านโป่ง 2"
+    },
+    {
+        "peaSubstation": "BPE บางพระ"
+    },
+    {
+        "peaSubstation": "BPH บางพระครู"
+    },
+    {
+        "peaSubstation": "BPI บางปะหัน"
+    },
+    {
+        "peaSubstation": "BPN บางพูน"
+    },
+    {
+        "peaSubstation": "BPU บ้านผือ"
+    },
+    {
+        "peaSubstation": "BRA บุรีรัมย์ 1"
+    },
+    {
+        "peaSubstation": "BRU บุรีรัมย์ 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "BSA บางไทร"
+    },
+    {
+        "peaSubstation": "BSG บ้านสร้าง"
+    },
+    {
+        "peaSubstation": "BSH บึงสามพัน"
+    },
+    {
+        "peaSubstation": "BSK บางสมัคร 2"
+    },
+    {
+        "peaSubstation": "BSM บางสมัคร 1"
+    },
+    {
+        "peaSubstation": "BSN บางแสน 1"
+    },
+    {
+        "peaSubstation": "BSO บางแสน 2"
+    },
+    {
+        "peaSubstation": "BSP บางสะพาน 1"
+    },
+    {
+        "peaSubstation": "BSR บางสะพาน 2"
+    },
+    {
+        "peaSubstation": "BSU บางสมัคร 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "BUA บึงกาฬ"
+    },
+    {
+        "peaSubstation": "BUY บัวใหญ่"
+    },
+    {
+        "peaSubstation": "BVU บ่อทอง (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "BWA บางวัว 1"
+    },
+    {
+        "peaSubstation": "BWB บางวัว 2"
+    },
+    {
+        "peaSubstation": "BWI บ่อวิน 1 (ลานไก)"
+    },
+    {
+        "peaSubstation": "BWN บ่อวิน 2"
+    },
+    {
+        "peaSubstation": "BYA บ้านเพ"
+    },
+    {
+        "peaSubstation": "CAA ชะอำ 1"
+    },
+    {
+        "peaSubstation": "CAB ชะอำ 2"
+    },
+    {
+        "peaSubstation": "CAU ชะอำ 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "CAY ไชยา"
+    },
+    {
+        "peaSubstation": "CBA ชลบุรี 1"
+    },
+    {
+        "peaSubstation": "CBB ชลบุรี 2"
+    },
+    {
+        "peaSubstation": "CBC ชลบุรี 3"
+    },
+    {
+        "peaSubstation": "CBN จอมบึง"
+    },
+    {
+        "peaSubstation": "CCA ฉะเชิงเทรา"
+    },
+    {
+        "peaSubstation": "CCI โชคชัย 1"
+    },
+    {
+        "peaSubstation": "CCU โชคชัย 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "CDA ชัยบาดาล 1"
+    },
+    {
+        "peaSubstation": "CDB ชัยบาดาล 2"
+    },
+    {
+        "peaSubstation": "CDO เชียงดาว"
+    },
+    {
+        "peaSubstation": "CEA จอมทอง"
+    },
+    {
+        "peaSubstation": "CHA ชุมแพ"
+    },
+    {
+        "peaSubstation": "CHM แจ้ห่ม"
+    },
+    {
+        "peaSubstation": "CHN จะนะ"
+    },
+    {
+        "peaSubstation": "CHT จอมเทียน 1"
+    },
+    {
+        "peaSubstation": "CHU จอมเทียน 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "CKA เชียงคาน"
+    },
+    {
+        "peaSubstation": "CKN เชียงของ"
+    },
+    {
+        "peaSubstation": "CLA เขื่อนรัชชประภา (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "CLU ฉลุง"
+    },
+    {
+        "peaSubstation": "CMA เชียงใหม่ 1"
+    },
+    {
+        "peaSubstation": "CMB เชียงใหม่ 2"
+    },
+    {
+        "peaSubstation": "CMC เชียงใหม่ 3"
+    },
+    {
+        "peaSubstation": "CMD เชียงใหม่ 4"
+    },
+    {
+        "peaSubstation": "CME พืชสวนโลก (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "CMF เชียงใหม่ 6 (ช้างคลาน) (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "CMU หายยา (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "CMV เชียงใหม่ 5 (ฟ้าฮ่าม) (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "CNA ชัยนาท"
+    },
+    {
+        "peaSubstation": "CON ขนแดน"
+    },
+    {
+        "peaSubstation": "CPA ชุมพร 1"
+    },
+    {
+        "peaSubstation": "CPB ชุมพร 2"
+    },
+    {
+        "peaSubstation": "CRA เชียงราย 1"
+    },
+    {
+        "peaSubstation": "CRB เชียงราย 2"
+    },
+    {
+        "peaSubstation": "CSA เชียงแสน"
+    },
+    {
+        "peaSubstation": "CTA จันทบุรี (ลานไก)"
+    },
+    {
+        "peaSubstation": "CTU จันทบุรี 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "CUM ชุมพวง"
+    },
+    {
+        "peaSubstation": "CUN จุน"
+    },
+    {
+        "peaSubstation": "CYA ชัยภูมิ 1"
+    },
+    {
+        "peaSubstation": "CYN เชียงยืน"
+    },
+    {
+        "peaSubstation": "CYU ชัยภูมิ 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "DAA ด่านช้าง"
+    },
+    {
+        "peaSubstation": "DBA เดิมบางนางบวช"
+    },
+    {
+        "peaSubstation": "DCA เด่นชัย"
+    },
+    {
+        "peaSubstation": "DEA เดชอุดม"
+    },
+    {
+        "peaSubstation": "DKA ดอยสะเก็ด"
+    },
+    {
+        "peaSubstation": "DMA ด่านมะขามเตี้ย"
+    },
+    {
+        "peaSubstation": "DNA ดำเนินสะดวก"
+    },
+    {
+        "peaSubstation": "DOA ดอนเจดีย์"
+    },
+    {
+        "peaSubstation": "DOP ดอนพุด"
+    },
+    {
+        "peaSubstation": "DSA ด่านซ้าย 1"
+    },
+    {
+        "peaSubstation": "DSB ด่านซ้าย 2"
+    },
+    {
+        "peaSubstation": "DTA ด่านขุนทด"
+    },
+    {
+        "peaSubstation": "DTM ดอนตูม"
+    },
+    {
+        "peaSubstation": "EKA เอกชัย 1  "
+    },
+    {
+        "peaSubstation": "EKU เอกชัย 2 (ชั่วคราว) "
+    },
+    {
+        "peaSubstation": "ESA อีสเทิร์นซีบอร์ด"
+    },
+    {
+        "peaSubstation": "FAA ฝาง"
+    },
+    {
+        "peaSubstation": "HCA ห้างฉัตร"
+    },
+    {
+        "peaSubstation": "HEA เหมราชอีสเทิร์นซีบอร์ด"
+    },
+    {
+        "peaSubstation": "HKA หันคา"
+    },
+    {
+        "peaSubstation": "HOA ฮอด"
+    },
+    {
+        "peaSubstation": "HSR หัวสำโรง"
+    },
+    {
+        "peaSubstation": "HTA หัวทะเล"
+    },
+    {
+        "peaSubstation": "HTL ห้วยแถลง"
+    },
+    {
+        "peaSubstation": "HUB หัวหิน 2"
+    },
+    {
+        "peaSubstation": "HUC หัวหิน 3"
+    },
+    {
+        "peaSubstation": "HUU หัวหิน 4 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "HYA หาดใหญ่ 1"
+    },
+    {
+        "peaSubstation": "HYB หาดใหญ่ 2"
+    },
+    {
+        "peaSubstation": "HYC หาดใหญ่ 3"
+    },
+    {
+        "peaSubstation": "HYD หาดใหญ่ 4"
+    },
+    {
+        "peaSubstation": "IBU อินทร์บุรี (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KAA แกลง 1"
+    },
+    {
+        "peaSubstation": "KAB แกลง 2"
+    },
+    {
+        "peaSubstation": "KAC แกลง 3"
+    },
+    {
+        "peaSubstation": "KBA กระบี่ 1"
+    },
+    {
+        "peaSubstation": "KBB กระบี่ 2"
+    },
+    {
+        "peaSubstation": "KBG ค่ายบางระจัน"
+    },
+    {
+        "peaSubstation": "KBI กบินทร์บุรี 1"
+    },
+    {
+        "peaSubstation": "KBJ กบินทร์บุรี 2"
+    },
+    {
+        "peaSubstation": "KBU กบินทร์บุรี 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KBV กบินทร์บุรี 4 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KCA กาญจนบุรี 1 "
+    },
+    {
+        "peaSubstation": "KCB กาญจนบุรี 2"
+    },
+    {
+        "peaSubstation": "KCD กาญจนดิษฐ์"
+    },
+    {
+        "peaSubstation": "KDA เขื่อนแก่งกระจาน (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KEA เขมราฐ"
+    },
+    {
+        "peaSubstation": "KFA เกาะพะงัน"
+    },
+    {
+        "peaSubstation": "KFU เกาะพะงัน 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KGA คง"
+    },
+    {
+        "peaSubstation": "KGU รังสิต 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KHL คลองสี่"
+    },
+    {
+        "peaSubstation": "KHY เขาย้อย 1"
+    },
+    {
+        "peaSubstation": "KHZ เขาย้อย 2"
+    },
+    {
+        "peaSubstation": "KIU คลองสอง (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KKA ขอนแก่น 1"
+    },
+    {
+        "peaSubstation": "KKB ขอนแก่น 2"
+    },
+    {
+        "peaSubstation": "KKC ขอนแก่น 3"
+    },
+    {
+        "peaSubstation": "KKD ขอนแก่น 4 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KKN ควนขนุน"
+    },
+    {
+        "peaSubstation": "KKR แก้งคร้อ"
+    },
+    {
+        "peaSubstation": "KKU คลองขลุง"
+    },
+    {
+        "peaSubstation": "KLA กาฬสินธุ์"
+    },
+    {
+        "peaSubstation": "KLG ขลุง"
+    },
+    {
+        "peaSubstation": "KLJ คลองเจ็ด (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KLO คลองหลวง"
+    },
+    {
+        "peaSubstation": "KMA เกาะสมุย 1"
+    },
+    {
+        "peaSubstation": "KMB เกาะสมุย 2"
+    },
+    {
+        "peaSubstation": "KMK เขาไม้แก้ว"
+    },
+    {
+        "peaSubstation": "KNA ขนอม"
+    },
+    {
+        "peaSubstation": "KNI เขื่องใน"
+    },
+    {
+        "peaSubstation": "KOA คลองใหม่ (ลานไก)"
+    },
+    {
+        "peaSubstation": "KON ครบุรี"
+    },
+    {
+        "peaSubstation": "KOT โคกกรวด 1 (นวนคร)"
+    },
+    {
+        "peaSubstation": "KOU โคกกรวด 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KPA กำแพงเพชร 1"
+    },
+    {
+        "peaSubstation": "KPB กำแพงเพชร 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KPO เกาะโพธิ์"
+    },
+    {
+        "peaSubstation": "KQU คูคต (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KRA กระนวน"
+    },
+    {
+        "peaSubstation": "KRN กะรน"
+    },
+    {
+        "peaSubstation": "KSA กำแพงแสน"
+    },
+    {
+        "peaSubstation": "KSR โคกสำโรง"
+    },
+    {
+        "peaSubstation": "KSU เกษตรสมบูรณ์ (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KSW เกษตรวิสัย"
+    },
+    {
+        "peaSubstation": "KTA กระทุ่มแบน 1"
+    },
+    {
+        "peaSubstation": "KTB กระทุ่มแบน 2"
+    },
+    {
+        "peaSubstation": "KTD กระทุ่มแบน 4"
+    },
+    {
+        "peaSubstation": "KTE กระทุ่มแบน 5 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KTM คลองท่อม (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KTR กันทรลักษ์"
+    },
+    {
+        "peaSubstation": "KTU กระทุ่มแบน 6 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KUA กุยบุรี"
+    },
+    {
+        "peaSubstation": "KUK ขุขันธ์"
+    },
+    {
+        "peaSubstation": "KUP กุมภวาปี"
+    },
+    {
+        "peaSubstation": "KUR คุระบุรี"
+    },
+    {
+        "peaSubstation": "KWA คลองขวาง 1"
+    },
+    {
+        "peaSubstation": "KWB คลองขวาง 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "KYA คลองใหญ่"
+    },
+    {
+        "peaSubstation": "KYE โคกแย้"
+    },
+    {
+        "peaSubstation": "LAA ลาดยาว"
+    },
+    {
+        "peaSubstation": "LAK ลาดหลุมแก้ว"
+    },
+    {
+        "peaSubstation": "LAU ละงู"
+    },
+    {
+        "peaSubstation": "LBA ลพบุรี 1"
+    },
+    {
+        "peaSubstation": "LBB ลพบุรี 2"
+    },
+    {
+        "peaSubstation": "LBC ลพบุรี 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "LBL ลาดบัวหลวง"
+    },
+    {
+        "peaSubstation": "LCA แหลมฉบัง 1"
+    },
+    {
+        "peaSubstation": "LCB แหลมฉบัง 2"
+    },
+    {
+        "peaSubstation": "LEA เลย"
+    },
+    {
+        "peaSubstation": "LGA แหลมงอบ"
+    },
+    {
+        "peaSubstation": "LIA ลี้"
+    },
+    {
+        "peaSubstation": "LKA ลานกระบือ"
+    },
+    {
+        "peaSubstation": "LLK ลำลูกกา 1"
+    },
+    {
+        "peaSubstation": "LLL ลำลูกกา 2"
+    },
+    {
+        "peaSubstation": "LNA ลำพูน 1"
+    },
+    {
+        "peaSubstation": "LNB ลำพูน 2"
+    },
+    {
+        "peaSubstation": "LNC ลำพูน 3"
+    },
+    {
+        "peaSubstation": "LNT เลิงนกทา (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "LOA หล่มสัก"
+    },
+    {
+        "peaSubstation": "LOK หล่มเก่า (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "LPA ลำปาง 1"
+    },
+    {
+        "peaSubstation": "LPB ลำปาง 2"
+    },
+    {
+        "peaSubstation": "LPC ลำปาง 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "LRA ลำภูรา"
+    },
+    {
+        "peaSubstation": "LSA หลังสวน"
+    },
+    {
+        "peaSubstation": "LWU เลาขวัญ (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "MBA มาบข่า"
+    },
+    {
+        "peaSubstation": "MCA แม่จัน"
+    },
+    {
+        "peaSubstation": "MDA มุกดาหาร 1"
+    },
+    {
+        "peaSubstation": "MDB มุกดาหาร 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "MEA แม่สาย"
+    },
+    {
+        "peaSubstation": "MHA แม่ฮ่องสอน"
+    },
+    {
+        "peaSubstation": "MKA มหาสารคาม 1"
+    },
+    {
+        "peaSubstation": "MKB มหาสารคาม 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "MLA แม่ลาว"
+    },
+    {
+        "peaSubstation": "MLK มวกเหล็ก"
+    },
+    {
+        "peaSubstation": "MPA มาบตาพุด 1"
+    },
+    {
+        "peaSubstation": "MPB มาบตาพุด 2"
+    },
+    {
+        "peaSubstation": "MPC มาบตาพุด 3"
+    },
+    {
+        "peaSubstation": "MRA มโนรมย์"
+    },
+    {
+        "peaSubstation": "MRM แม่ริม"
+    },
+    {
+        "peaSubstation": "MSA แม่สอด 1"
+    },
+    {
+        "peaSubstation": "MSU แม่สอด 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "MTA แม่แตง (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "MUA เมืองเอก (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "NAA น่าน 1"
+    },
+    {
+        "peaSubstation": "NAB น่าน 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "NAR นางรอง"
+    },
+    {
+        "peaSubstation": "NAT นครไทย"
+    },
+    {
+        "peaSubstation": "NBL หนองบัวลำภู"
+    },
+    {
+        "peaSubstation": "NCA นครชัยศรี 1"
+    },
+    {
+        "peaSubstation": "NCB นครชัยศรี 2"
+    },
+    {
+        "peaSubstation": "NCH หนองฉาง"
+    },
+    {
+        "peaSubstation": "NHA หนองหาน"
+    },
+    {
+        "peaSubstation": "NIA นิคมอุตสาหกรรมภาคเหนือ 1"
+    },
+    {
+        "peaSubstation": "NIU ลำพูน 5"
+    },
+    {
+        "peaSubstation": "NKA หนองคาย 1"
+    },
+    {
+        "peaSubstation": "NKB หนองคาย 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "NKL นครหลวง"
+    },
+    {
+        "peaSubstation": "NKP นิคมพัฒนา"
+    },
+    {
+        "peaSubstation": "NLL หนองละลอก"
+    },
+    {
+        "peaSubstation": "NNA นครพนม"
+    },
+    {
+        "peaSubstation": "NOA หนองเรือ"
+    },
+    {
+        "peaSubstation": "NOB หนองบัว"
+    },
+    {
+        "peaSubstation": "NOH หนองแค 1"
+    },
+    {
+        "peaSubstation": "NOI หนองแค 2"
+    },
+    {
+        "peaSubstation": "NOK หนองกี่"
+    },
+    {
+        "peaSubstation": "NOM หนองปลาหมอ"
+    },
+    {
+        "peaSubstation": "NOY หนองใหญ่"
+    },
+    {
+        "peaSubstation": "NPA น้ำพุง"
+    },
+    {
+        "peaSubstation": "NPL หนองปลิง"
+    },
+    {
+        "peaSubstation": "NPT นครปฐม 1"
+    },
+    {
+        "peaSubstation": "NPU นครปฐม 2"
+    },
+    {
+        "peaSubstation": "NPV นครปฐม 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "NQA น้ำพอง"
+    },
+    {
+        "peaSubstation": "NRA นครราชสีมา 1"
+    },
+    {
+        "peaSubstation": "NRB นครราชสีมา 2"
+    },
+    {
+        "peaSubstation": "NRC นครราชสีมา 3"
+    },
+    {
+        "peaSubstation": "NRD นครราชสีมา 4 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "NRE นครราชสีมา 5 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "NSA นครสวรรค์ 1"
+    },
+    {
+        "peaSubstation": "NSB นครสวรรค์ 2"
+    },
+    {
+        "peaSubstation": "NSG โนนสูง (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "NSI นนทรี"
+    },
+    {
+        "peaSubstation": "NSU นครสวรรค์ 4 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "NTA นครศรีธรรมราช 1"
+    },
+    {
+        "peaSubstation": "NTB นครศรีธรรมราช 2"
+    },
+    {
+        "peaSubstation": "NVA นวนคร 1"
+    },
+    {
+        "peaSubstation": "NVB นวนคร 2"
+    },
+    {
+        "peaSubstation": "NVC นวนคร 3"
+    },
+    {
+        "peaSubstation": "NVD นวนคร 4"
+    },
+    {
+        "peaSubstation": "NWA นราธิวาส"
+    },
+    {
+        "peaSubstation": "NYA นครนายก 1"
+    },
+    {
+        "peaSubstation": "NYB นครนายก 2"
+    },
+    {
+        "peaSubstation": "NYM นายายอาม"
+    },
+    {
+        "peaSubstation": "NYU น้ำยืน (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "OKA องครักษ์"
+    },
+    {
+        "peaSubstation": "ONA อ้อมน้อย 1"
+    },
+    {
+        "peaSubstation": "ONB อ้อมน้อย 2  "
+    },
+    {
+        "peaSubstation": "OND อ้อมน้อย 4"
+    },
+    {
+        "peaSubstation": "OYI อ้อมใหญ่ 1  "
+    },
+    {
+        "peaSubstation": "OYK อ้อมใหญ่ 2  "
+    },
+    {
+        "peaSubstation": "OYL อ้อมใหญ่ 3"
+    },
+    {
+        "peaSubstation": "OYM อ้อมใหญ่ 4 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "PAA ปราจีนบุรี 1"
+    },
+    {
+        "peaSubstation": "PAB ปราจีนบุรี 2"
+    },
+    {
+        "peaSubstation": "PAL พังลา"
+    },
+    {
+        "peaSubstation": "PAN พาน"
+    },
+    {
+        "peaSubstation": "PAS ป่าซาง"
+    },
+    {
+        "peaSubstation": "PAT ป่าตอง"
+    },
+    {
+        "peaSubstation": "PAU ปาย (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "PBA เพชรบุรี 1"
+    },
+    {
+        "peaSubstation": "PBB เพชรบุรี 2"
+    },
+    {
+        "peaSubstation": "PCA ปากช่อง 1"
+    },
+    {
+        "peaSubstation": "PCB ปากช่อง 2"
+    },
+    {
+        "peaSubstation": "PCC ปากช่อง 3"
+    },
+    {
+        "peaSubstation": "PCK ประจันตคาม"
+    },
+    {
+        "peaSubstation": "PDA ประจวบคีรีขันธ์"
+    },
+    {
+        "peaSubstation": "PEA เพชรบูรณ์"
+    },
+    {
+        "peaSubstation": "PEU เพชรบูรณ์ 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "PFA พังโคน"
+    },
+    {
+        "peaSubstation": "PGA พังงา"
+    },
+    {
+        "peaSubstation": "PHA พนมสารคาม"
+    },
+    {
+        "peaSubstation": "PIA พิจิตร"
+    },
+    {
+        "peaSubstation": "PIH พิชัย"
+    },
+    {
+        "peaSubstation": "PJA พระพุทธบาท 1"
+    },
+    {
+        "peaSubstation": "PJB พระพุทธบาท 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "PKA ภูเก็ต 1"
+    },
+    {
+        "peaSubstation": "PKB ภูเก็ต 2"
+    },
+    {
+        "peaSubstation": "PKC ภูเก็ต 3"
+    },
+    {
+        "peaSubstation": "PKE พุแค"
+    },
+    {
+        "peaSubstation": "PKT พรานกระต่าย"
+    },
+    {
+        "peaSubstation": "PKU ภูเก็ต 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "PLA พิษณุโลก 1"
+    },
+    {
+        "peaSubstation": "PLB พิษณุโลก 2"
+    },
+    {
+        "peaSubstation": "PLC พิษณุโลก 3"
+    },
+    {
+        "peaSubstation": "PLD พิษณุโลก 4"
+    },
+    {
+        "peaSubstation": "PLT พิษณุโลก 6 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "PLU ปลวกแดง 1"
+    },
+    {
+        "peaSubstation": "PLV ปลวกแดง 2"
+    },
+    {
+        "peaSubstation": "PLW ปลวกแดง 3"
+    },
+    {
+        "peaSubstation": "PLX ปลวกแดง 4"
+    },
+    {
+        "peaSubstation": "PMB พุทธมณฑล 2"
+    },
+    {
+        "peaSubstation": "PNA ปราณบุรี"
+    },
+    {
+        "peaSubstation": "PNR โป่งน้ำร้อน 1"
+    },
+    {
+        "peaSubstation": "PNU โป่งน้ำร้อน 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "POA พล"
+    },
+    {
+        "peaSubstation": "PON โพนพิสัย"
+    },
+    {
+        "peaSubstation": "POU ปักธงชัย (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "PPA พุนพิน 1"
+    },
+    {
+        "peaSubstation": "PPB พุนพิน 2"
+    },
+    {
+        "peaSubstation": "PPH พรหมพิราม (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "PPN ปากพนัง"
+    },
+    {
+        "peaSubstation": "PQA ปทุมธานี 1"
+    },
+    {
+        "peaSubstation": "PQB ปทุมธานี 2"
+    },
+    {
+        "peaSubstation": "PQC ปทุมธานี 3"
+    },
+    {
+        "peaSubstation": "PRA แพร่"
+    },
+    {
+        "peaSubstation": "PRI พรหมบุรี"
+    },
+    {
+        "peaSubstation": "PSA พนัสนิคม"
+    },
+    {
+        "peaSubstation": "PSN โพธิ์ไทรงาม (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "PST ปราสาท"
+    },
+    {
+        "peaSubstation": "PTA ปัตตานี 1"
+    },
+    {
+        "peaSubstation": "PTB ปัตตานี 2"
+    },
+    {
+        "peaSubstation": "PTH ปากท่อ"
+    },
+    {
+        "peaSubstation": "PTN โพนทอง"
+    },
+    {
+        "peaSubstation": "PTO พานทอง 1 (ลานไก)"
+    },
+    {
+        "peaSubstation": "PTP พานทอง 2"
+    },
+    {
+        "peaSubstation": "PTR โพธาราม 1"
+    },
+    {
+        "peaSubstation": "PTS โพธาราม 2"
+    },
+    {
+        "peaSubstation": "PTU พนมทวน"
+    },
+    {
+        "peaSubstation": "PUA พัทลุง"
+    },
+    {
+        "peaSubstation": "PUU ปัว"
+    },
+    {
+        "peaSubstation": "PVA ประโคนชัย"
+    },
+    {
+        "peaSubstation": "PXA พัฒนานิคม"
+    },
+    {
+        "peaSubstation": "PYA พะเยา"
+    },
+    {
+        "peaSubstation": "PYN พัทยาเหนือ 1"
+    },
+    {
+        "peaSubstation": "PYP พยัคฆภูมิพิสัย"
+    },
+    {
+        "peaSubstation": "PYT พัทยาใต้ 1"
+    },
+    {
+        "peaSubstation": "PYU พัทยาใต้ 2"
+    },
+    {
+        "peaSubstation": "PYV พัทยาเหนือ 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "PZA ปิ่นทอง 1"
+    },
+    {
+        "peaSubstation": "PZV ปิ่นทอง 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "RAA ระยอง 1"
+    },
+    {
+        "peaSubstation": "RAB ระยอง 2 (ลานไก)"
+    },
+    {
+        "peaSubstation": "RAC ระยอง 3"
+    },
+    {
+        "peaSubstation": "RBA ราชบุรี 1"
+    },
+    {
+        "peaSubstation": "RBB ราชบุรี 2"
+    },
+    {
+        "peaSubstation": "RBC ราชบุรี 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "RCN โรจนะ 1"
+    },
+    {
+        "peaSubstation": "RCO โรจนะ 2"
+    },
+    {
+        "peaSubstation": "RCQ โรจนะ 3"
+    },
+    {
+        "peaSubstation": "RCR โรจนะ 4"
+    },
+    {
+        "peaSubstation": "REA ร้อยเอ็ด 1 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "REU ร้อยเอ็ด 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "RGA รังสิต 1"
+    },
+    {
+        "peaSubstation": "RGU รังสิต 2"
+    },
+    {
+        "peaSubstation": "RIU นิคมอุตสาหกรรมราชบุรี (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "RKA ร้องกวาง"
+    },
+    {
+        "peaSubstation": "RLA ราษีไศล"
+    },
+    {
+        "peaSubstation": "RNA ระนอง 1"
+    },
+    {
+        "peaSubstation": "RNB ระนอง 2"
+    },
+    {
+        "peaSubstation": "ROA ระโนด"
+    },
+    {
+        "peaSubstation": "RSA รังสิตใต้ 1"
+    },
+    {
+        "peaSubstation": "RSU รังสิตใต้ 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "RTP รัตภูมิ"
+    },
+    {
+        "peaSubstation": "SAA สามพราน 1"
+    },
+    {
+        "peaSubstation": "SAB สามพราน 2  "
+    },
+    {
+        "peaSubstation": "SAK สังขะ"
+    },
+    {
+        "peaSubstation": "SAM สำโรงทาบ"
+    },
+    {
+        "peaSubstation": "SAT แสนตุ้ง"
+    },
+    {
+        "peaSubstation": "SAU สามพราน 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SBA สิงห์บุรี"
+    },
+    {
+        "peaSubstation": "SBR ศรีบุญเรือง"
+    },
+    {
+        "peaSubstation": "SBY สะบ้าย้อย"
+    },
+    {
+        "peaSubstation": "SCA ศรีราชา"
+    },
+    {
+        "peaSubstation": "SCM ศรีเชียงใหม่"
+    },
+    {
+        "peaSubstation": "SDA สมเด็จ"
+    },
+    {
+        "peaSubstation": "SEA สตูล"
+    },
+    {
+        "peaSubstation": "SEK เซกา"
+    },
+    {
+        "peaSubstation": "SEL เสลภูมิ"
+    },
+    {
+        "peaSubstation": "SFA สีคิ้ว"
+    },
+    {
+        "peaSubstation": "SGA สันป่าตอง"
+    },
+    {
+        "peaSubstation": "SHN สิงหนคร"
+    },
+    {
+        "peaSubstation": "SIA เขื่อนสิรินธร"
+    },
+    {
+        "peaSubstation": "SIK สินสาคร (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SJA ศรีสะเกษ"
+    },
+    {
+        "peaSubstation": "SKA เขื่อนสิริกิตติ์ (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SKK สามโคก"
+    },
+    {
+        "peaSubstation": "SKP สันกำแพง"
+    },
+    {
+        "peaSubstation": "SKW สระแก้ว"
+    },
+    {
+        "peaSubstation": "SLA สงขลา 1"
+    },
+    {
+        "peaSubstation": "SLB สงขลา 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SLC สงขลา 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SLY ศาลายา"
+    },
+    {
+        "peaSubstation": "SMA สมุทรสาคร 1"
+    },
+    {
+        "peaSubstation": "SMB สมุทรสาคร 2  "
+    },
+    {
+        "peaSubstation": "SMC สมุทรสาคร 3  "
+    },
+    {
+        "peaSubstation": "SMD สมุทรสาคร 4  "
+    },
+    {
+        "peaSubstation": "SME สมุทรสาคร 5"
+    },
+    {
+        "peaSubstation": "SMF สมุทรสาคร 6"
+    },
+    {
+        "peaSubstation": "SMG สมุทรสาคร 7 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SMP ศรีมหาโพธิ 1"
+    },
+    {
+        "peaSubstation": "SMU สมุทรสาคร 8 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SMV สมุทรสาคร 10 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SMW สมุทรสาคร 11 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SMY ศรีมหาโพธิ 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SNA เสนา"
+    },
+    {
+        "peaSubstation": "SNG สุไหงโก-ลก"
+    },
+    {
+        "peaSubstation": "SNK สนามชัยเขต"
+    },
+    {
+        "peaSubstation": "SNO ไทรน้อย"
+    },
+    {
+        "peaSubstation": "SOA สกลนคร"
+    },
+    {
+        "peaSubstation": "SPA สุพรรณบุรี"
+    },
+    {
+        "peaSubstation": "SPC ศรีประจันต์ (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SPN สองพี่น้อง"
+    },
+    {
+        "peaSubstation": "SQA สะเดา 1"
+    },
+    {
+        "peaSubstation": "SQB สะเดา 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SQU สะเดา 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SRA สระบุรี 1"
+    },
+    {
+        "peaSubstation": "SRB สระบุรี 2"
+    },
+    {
+        "peaSubstation": "SRD สระบุรี 4"
+    },
+    {
+        "peaSubstation": "SRE สระบุรี 5"
+    },
+    {
+        "peaSubstation": "SSA สมุทรสงคราม"
+    },
+    {
+        "peaSubstation": "SSK ศรีสงคราม"
+    },
+    {
+        "peaSubstation": "SSL ศรีสัชนาลัย"
+    },
+    {
+        "peaSubstation": "STA สุโขทัย"
+    },
+    {
+        "peaSubstation": "STT ศรีธาตุ"
+    },
+    {
+        "peaSubstation": "SUA สุรินทร์ 1"
+    },
+    {
+        "peaSubstation": "SUB สุรินทร์ 2"
+    },
+    {
+        "peaSubstation": "SVA เขื่อนศรีนครินทร์ (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "SWA สวรรคโลก"
+    },
+    {
+        "peaSubstation": "SYA ไทรโยค"
+    },
+    {
+        "peaSubstation": "SZA สลกบาตร"
+    },
+    {
+        "peaSubstation": "TAA ตาก"
+    },
+    {
+        "peaSubstation": "TCA ท่าตะโก"
+    },
+    {
+        "peaSubstation": "TDA ตาลเดี่ยว"
+    },
+    {
+        "peaSubstation": "TEA เถิน"
+    },
+    {
+        "peaSubstation": "THA ธาตุพนม"
+    },
+    {
+        "peaSubstation": "THS ท่าทราย 1"
+    },
+    {
+        "peaSubstation": "THU ท่าทราย 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "TKB ตาคลี 2"
+    },
+    {
+        "peaSubstation": "TKK ทุ่งคอก (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "TLA ท่าลาน 1"
+    },
+    {
+        "peaSubstation": "TLC ท่าลาน 3"
+    },
+    {
+        "peaSubstation": "TLG ถลาง 1"
+    },
+    {
+        "peaSubstation": "TLH ถลาง 2"
+    },
+    {
+        "peaSubstation": "TLI ท่าลี่"
+    },
+    {
+        "peaSubstation": "TLU ถลาง 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "TMA ท่าม่วง"
+    },
+    {
+        "peaSubstation": "TMG ท้ายเหมือง"
+    },
+    {
+        "peaSubstation": "TMK ท่ามะกา"
+    },
+    {
+        "peaSubstation": "TMM ท่าใหม่"
+    },
+    {
+        "peaSubstation": "TMS ธรรมศาสตร์"
+    },
+    {
+        "peaSubstation": "TNG เทิง"
+    },
+    {
+        "peaSubstation": "TPA ตะกั่วป่า"
+    },
+    {
+        "peaSubstation": "TPH ตะพานหิน"
+    },
+    {
+        "peaSubstation": "TPP ตระการพืชผล"
+    },
+    {
+        "peaSubstation": "TRA ตรัง"
+    },
+    {
+        "peaSubstation": "TSA ทุ่งสง"
+    },
+    {
+        "peaSubstation": "TSE ท่าแซะ"
+    },
+    {
+        "peaSubstation": "TSK ทองแสนขัน"
+    },
+    {
+        "peaSubstation": "TTA ตราด"
+    },
+    {
+        "peaSubstation": "TTN เขื่อนท่าทุ่งนา (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "TTU ท่าตูม"
+    },
+    {
+        "peaSubstation": "TUA ทุ่งลุง"
+    },
+    {
+        "peaSubstation": "TWA ท่าวุ้ง"
+    },
+    {
+        "peaSubstation": "TYA ธัญบุรี"
+    },
+    {
+        "peaSubstation": "TYI ทุ่งใหญ่"
+    },
+    {
+        "peaSubstation": "UAA อุทัยธานี"
+    },
+    {
+        "peaSubstation": "UBA อุบลราชธานี 1"
+    },
+    {
+        "peaSubstation": "UBB อุบลราชธานี 2"
+    },
+    {
+        "peaSubstation": "UBC อุบลราชธานี 3 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "UDA อุดรธานี 1"
+    },
+    {
+        "peaSubstation": "UDB อุดรธานี 2"
+    },
+    {
+        "peaSubstation": "UDC อุดรธานี 3"
+    },
+    {
+        "peaSubstation": "UTA อุตรดิตถ์"
+    },
+    {
+        "peaSubstation": "UTG อู่ทอง"
+    },
+    {
+        "peaSubstation": "VLA เขื่อนวชิราลงกรณ (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "WAA วังน้อย 1"
+    },
+    {
+        "peaSubstation": "WAB วังน้อย 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "WAM วังม่วง"
+    },
+    {
+        "peaSubstation": "WBA วชิรบารมี (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "WBT วัดโบสถ์"
+    },
+    {
+        "peaSubstation": "WCN วังจันทร์ (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "WGT วังทอง"
+    },
+    {
+        "peaSubstation": "WIA วิหารแดง"
+    },
+    {
+        "peaSubstation": "WIR วิเชียรบุรี"
+    },
+    {
+        "peaSubstation": "WNA วัฒนานคร"
+    },
+    {
+        "peaSubstation": "WPA เวียงป่าเป้า"
+    },
+    {
+        "peaSubstation": "WRA วารินชำราบ"
+    },
+    {
+        "peaSubstation": "WSA เวียงสระ"
+    },
+    {
+        "peaSubstation": "WWA วานรนิวาส (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "WYA วังน้ำเย็น"
+    },
+    {
+        "peaSubstation": "XPU สวนผึ้ง (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "XSU สันทราย (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "YLA ยะลา 1"
+    },
+    {
+        "peaSubstation": "YLB ยะลา 2 (ชั่วคราว)"
+    },
+    {
+        "peaSubstation": "YRA ยุพราชันย์"
+    },
+    {
+        "peaSubstation": "YTA ยโสธร"
+    },
+    {
+        "peaSubstation": "YTK ย่านตาขาว"
+    }
+]
